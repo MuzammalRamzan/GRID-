@@ -1,0 +1,16 @@
+#Grid{
+    display: grid;
+    border: 1px solid black;
+    width: 600px;
+    height: 500px;
+    grid: 100px 200px / 100px 100px 100px;
+
+}
+.abc{
+    background-color: cornflowerblue;
+    margin: 2px;
+}
+.cde{
+    margin: 2px;
+    background-color: red;
+    height: 100p;
